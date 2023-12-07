@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/JoseQuintana20/JoseQuintana20/blob/main/resources/img/waving.gif"></h1>
-<h4 align="center">Ingeniero Electrónico y Estudiante de Maestría en Ingeniería Eléctrica en la Universidad Tecnológica de Pereira.</h4>
+<h4 align="center">Electronic Engineer and Master's Degree Student in Electrical Engineering at Universidad Tecnológica de Pereira.</h4>
 </div>
 
 <div align="center">
