@@ -1,84 +1,84 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/JoseQuintana20/JoseQuintana20/blob/main/resources/img/waving.gif"></h1>
-<h4 align="center">Electronic Engineer and Master's Degree Student in Electrical Engineering at Universidad Tecnológica de Pereira.</h4>
+
+<h1>Hi, I'm Jose 👋</h1>
+
+<h3>Electronics Engineer · M.Sc. in Electrical Engineering</h3>
+
+<p>
+  <b>Artificial Intelligence & Data Science Consultant</b><br>
+  Researcher in automatic control, computer vision and autonomous systems
+</p>
+
+<p><i>Engineering intelligence into motion.</i></p>
+
+<a href="https://josequintana20.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-4DABF7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/ingjosequintana/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://scholar.google.com/citations?user=r8wImRIAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
+</a>
+<a href="https://orcid.org/0009-0002-1582-2579">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+</a>
+
+<br><br>
+
+<a href="https://github.com/JoseQuintana20">
+  <img src="https://raw.githubusercontent.com/JoseQuintana20/JoseQuintana20/main/resources/img/grid-snake.svg" alt="Contribution snake animation">
+</a>
+
 </div>
+
+---
+
+<details>
+<summary><b>🧠 About me</b></summary>
+<br>
+
+- Building solutions in **Artificial Intelligence, Data Science and Computer Vision**.
+- Researching **automatic control and autonomous UAV navigation**.
+- Working with **Python, MATLAB/Simulink, OpenCV, PyTorch and embedded systems**.
+- Open to **remote roles, consulting and research collaborations**.
+
+</details>
+
+<details>
+<summary><b>📊 GitHub overview</b></summary>
+<br>
 
 <div align="center">
-  <a href="https://github.com/JoseQuintana20">
-  <img  src="https://github.com/JoseQuintana20/JoseQuintana20/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoseQuintana20&show_icons=true&hide_border=true&bg_color=00000000&title_color=4DABF7&icon_color=4DABF7&text_color=8B949E" alt="Jose's GitHub statistics">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseQuintana20&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=4DABF7&text_color=8B949E" alt="Jose's most used languages">
+
 </div>
 
------
-<details>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">you can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/ingjosequintana/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Jose" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
 </details>
 
 <details>
-  <summary>🧮 about</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/JoseQuintana20" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=JoseQuintana20&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  </p>
- </samp>
-</div>
-</details>
-  
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/JoseQuintana20">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseQuintana20&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="JoseQuintana20 :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/JoseQuintana20">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseQuintana20&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseQuintana20&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/JoseQuintana20">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JoseQuintana20&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseQuintana20&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+<summary><b>📬 Contact</b></summary>
+<br>
 
-  
-<details>
-  <summary>🌏 global</summary>
-  <br/>
+<div align="center">
+
+<a href="mailto:jose.quintana@utp.edu.co">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/ingjosequintana/">
+  <img src="https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=JoseQuintana20&style=flat-square&color=4DABF7&label=Profile+views" alt="Profile views">
+
+</div>
+
+</details>
 <details open>
   <summary>😒 random stuff</summary>
 <div>
