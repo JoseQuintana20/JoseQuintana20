@@ -5,8 +5,7 @@
 <h3>Electronics Engineer · M.Sc. in Electrical Engineering</h3>
 
 <p>
-  <b>Artificial Intelligence & Data Science Consultant</b><br>
-  Researcher in automatic control, computer vision and autonomous systems
+  <b>Automatic Control · Computer Vision · Autonomous Systems · Data Science</b>
 </p>
 
 <p><i>Engineering intelligence into motion.</i></p>
