@@ -44,50 +44,42 @@
 - Open to **remote roles, consulting and research collaborations**.
 
 </details>
-
 <details>
 <summary><b>📊 GitHub overview</b></summary>
 <br>
 
 <div align="center">
 
-  <a href="https://github.com/JoseQuintana20">
-    <img
-      width="100%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseQuintana20&theme=transparent"
-      alt="Jose Quintana's GitHub contribution summary"
-    >
-  </a>
+<a href="https://github.com/JoseQuintana20">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseQuintana20&theme=transparent"
+    alt="Jose Quintana's GitHub profile summary"
+  >
+</a>
 
-  <br>
+<br>
 
-  <a href="https://github.com/JoseQuintana20">
-    <img
-      width="32%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseQuintana20&theme=transparent"
-      alt="Languages by repository"
-    >
-  </a>
+<a href="https://github.com/JoseQuintana20">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseQuintana20&theme=transparent"
+    alt="Languages by repository"
+  >
+</a>
 
-  <a href="https://github.com/JoseQuintana20">
-    <img
-      width="32%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseQuintana20&theme=transparent"
-      alt="Languages by commits"
-    >
-  </a>
-
-  <a href="https://github.com/JoseQuintana20">
-    <img
-      width="32%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseQuintana20&theme=transparent"
-      alt="Jose Quintana's GitHub statistics"
-    >
-  </a>
+<a href="https://github.com/JoseQuintana20">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseQuintana20&theme=transparent"
+    alt="GitHub statistics"
+  >
+</a>
 
 </div>
 
-</details>  
+</details>
+
 <details>
 <summary><b>📬 Contact</b></summary>
 <br>
