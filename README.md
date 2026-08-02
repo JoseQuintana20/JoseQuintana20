@@ -51,14 +51,43 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoseQuintana20&show_icons=true&hide_border=true&bg_color=00000000&title_color=4DABF7&icon_color=4DABF7&text_color=8B949E" alt="Jose's GitHub statistics">
+  <a href="https://github.com/JoseQuintana20">
+    <img
+      width="100%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseQuintana20&theme=transparent"
+      alt="Jose Quintana's GitHub contribution summary"
+    >
+  </a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseQuintana20&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=4DABF7&text_color=8B949E" alt="Jose's most used languages">
+  <br>
+
+  <a href="https://github.com/JoseQuintana20">
+    <img
+      width="32%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseQuintana20&theme=transparent"
+      alt="Languages by repository"
+    >
+  </a>
+
+  <a href="https://github.com/JoseQuintana20">
+    <img
+      width="32%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseQuintana20&theme=transparent"
+      alt="Languages by commits"
+    >
+  </a>
+
+  <a href="https://github.com/JoseQuintana20">
+    <img
+      width="32%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseQuintana20&theme=transparent"
+      alt="Jose Quintana's GitHub statistics"
+    >
+  </a>
 
 </div>
 
-</details>
-
+</details>  
 <details>
 <summary><b>📬 Contact</b></summary>
 <br>
