@@ -8,7 +8,9 @@
   <b>Automatic Control · Computer Vision · Autonomous Systems · Data Science</b>
 </p>
 
-<p><i>Engineering intelligence into motion.</i></p>
+<p>
+  <i>“We are made of star-stuff.” — Carl Sagan</i>
+</p>
 
 <a href="https://josequintana20.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-4DABF7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
